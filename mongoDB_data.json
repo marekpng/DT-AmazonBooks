@@ -1,0 +1,244 @@
+[{
+  "name": "To Kill a Mockingbird",
+  "year_published": 1960,
+  "ISBN": "978-0-06-112008-4",
+  "pageCount": 281,
+  "format": "Hardcover",
+  "edition": "First Edition",
+  "publication_date": "1960-07-11",
+  "weight": 12.8,
+  "genre": [
+    {
+      "genre_name": "Fiction",
+      "description": "Classic American literature"
+    },
+    {
+      "genre_name": "Legal drama",
+      "description": "Deals with racial injustice"
+    }
+  ],
+  "publisher": [
+    {
+      "publisherName": "J. B. Lippincott & Co.",
+      "founder": "Joshua B. Lippincott",
+      "website": "www.jblippincott.com",
+      "address": {
+        "street": "227 South Sixth Street",
+        "postal_code": "19106",
+        "city": "Philadelphia",
+        "country": "USA",
+        "state": "Pennsylvania"
+      }
+    }
+  ],
+  "language": [
+    {
+      "language_name": "English"
+    }
+  ],
+  "bookEvent": [
+    {
+      "event_name": "Pulitzer Prize for Fiction",
+      "event_date": "1961-05-01",
+      "description": "Won Pulitzer Prize for Fiction in 1961"
+    }
+  ],
+  "series": [],
+  "reviews": [
+    {
+      "user_rating": 5,
+      "review_text": "An amazing book that tackles important societal issues.",
+      "review_date": "2023-09-15",
+      "user": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "birth_date": "1985-03-10",
+        "gender": "Male",
+        "age": 39,
+        "email": "johndoe@example.com",
+        "address": {
+          "street": "123 Main St",
+          "postal_code": "10001",
+          "city": "New York",
+          "country": "USA",
+          "state": "New York"
+        }
+      }
+    }
+  ],
+  "author": [{
+    "first_name": "Harper",
+    "last_name": "Lee",
+    "nationality": "American",
+    "biography": "Harper Lee was an American novelist widely known for her novel To Kill a Mockingbird.",
+    "website": "",
+    "birth_date": "1926-04-28"
+  }],
+  "book_awards": [
+    {
+      "award_date": "1961-05-01",
+      "award_name": "Pulitzer Prize for Fiction",
+      "award_year": 1961,
+      "organization_name": "Columbia University"
+    }
+  ]
+},
+{
+    "name": "1984",
+    "year_published": 1949,
+    "ISBN": "978-0-452-28423-4",
+    "pageCount": 328,
+    "format": "Paperback",
+    "edition": "First Edition",
+    "publication_date": "1949-06-08",
+    "weight": 8.5,
+    "genre": [
+      {
+        "genre_name": "Science Fiction",
+        "description": "Dystopian novel"
+      },
+      {
+        "genre_name": "Political fiction",
+        "description": "Critique of totalitarianism"
+      }
+    ],
+    "publisher": [
+      {
+        "publisherName": "Secker & Warburg",
+        "founder": "Fredric Warburg",
+        "website": "",
+        "address": {
+          "street": "14 Poland Street",
+          "postal_code": "W1F 8DN",
+          "city": "London",
+          "country": "United Kingdom",
+          "state": ""
+        }
+      }
+    ],
+    "language": [
+      {
+        "language_name": "English"
+      }
+    ],
+    "bookEvent": [],
+    "series": [],
+    "reviews": [
+      {
+        "user_rating": 4,
+        "review_text": "A chilling portrayal of a dystopian society.",
+        "review_date": "2023-11-20",
+        "user": {
+          "first_name": "Jane",
+          "last_name": "Smith",
+          "birth_date": "1990-05-25",
+          "gender": "Female",
+          "age": 34,
+          "email": "janesmith@example.com",
+          "address": {
+            "street": "456 Elm St",
+            "postal_code": "90001",
+            "city": "Los Angeles",
+            "country": "USA",
+            "state": "California"
+          }
+        }
+      }
+    ],
+    "author": [{
+      "first_name": "George",
+      "last_name": "Orwell",
+      "nationality": "British",
+      "biography": "George Orwell was an English novelist, essayist, journalist and critic, whose work is marked by lucid prose, awareness of social injustice, opposition to totalitarianism, and outspoken support of democratic socialism.",
+      "website": "",
+      "birth_date": "1903-06-25"
+    }],
+    "book_awards": [
+      {
+        "award_date": "2005-10-16",
+        "award_name": "100 Best Novels",
+        "award_year": 2005,
+        "organization_name": "Time Magazine"
+      }
+    ]
+  },
+{
+    "name": "The Great Gatsby",
+    "year_published": 1925,
+    "ISBN": "978-0-7432-7356-5",
+    "pageCount": 180,
+    "format": "Hardcover",
+    "edition": "First Edition",
+    "publication_date": "1925-04-10",
+    "weight": 10.2,
+    "genre": [
+      {
+        "genre_name": "Fiction",
+        "description": "American literature"
+      },
+      {
+        "genre_name": "Tragedy",
+        "description": "Portrayal of the American Dream"
+      }
+    ],
+    "publisher": [
+      {
+        "publisherName": "Charles Scribner's Sons",
+        "founder": "Charles Scribner II",
+        "website": "",
+        "address": {
+          "street": "153-157 Fifth Avenue",
+          "postal_code": "10010",
+          "city": "New York",
+          "country": "USA",
+          "state": "New York"
+        }
+      }
+    ],
+    "language": [
+      {
+        "language_name": "English"
+      }
+    ],
+    "bookEvent": [],
+    "series": [],
+    "reviews": [
+      {
+        "user_rating": 5,
+        "review_text": "A masterpiece of American literature.",
+        "review_date": "2023-08-10",
+        "user": {
+          "first_name": "Michael",
+          "last_name": "Johnson",
+          "birth_date": "1980-12-15",
+          "gender": "Male",
+          "age": 43,
+          "email": "michaeljohnson@example.com",
+          "address": {
+            "street": "789 Maple Ave",
+            "postal_code": "60601",
+            "city": "Chicago",
+            "country": "USA",
+            "state": "Illinois"
+          }
+        }
+      }
+    ],
+    "author": [{
+      "first_name": "F. Scott",
+      "last_name": "Fitzgerald",
+      "nationality": "American",
+      "biography": "Francis Scott Key Fitzgerald was an American novelist, essayist, screenwriter, and short-story writer. He is best known for his novels depicting the flamboyance and excess of the Jazz Age—a term he popularized—which led to the Great Depression.",
+      "website": "",
+      "birth_date": "1896-09-24"
+    }],
+    "book_awards": [
+      {
+        "award_date": "1998-06-18",
+        "award_name": "100 Best English-language Novels",
+        "award_year": 1998,
+        "organization_name": "Modern Library"
+      }
+    ]
+  }
+  ]
